@@ -1,0 +1,44 @@
+
+ el imput lag
+
+como gamer por ley 
+ tu deberias estar familiarizadp con este termino
+ bueno
+ solo si eres gamer competitivo
+
+ 
+aunque en este caso vamos habalor sobre la latenciade renderizado 
+al final puede ser considerado lag
+
+que para el que no sabe el imput lag no es mas que el tiempo que tarda el pc en recibir iformacion de nuestro telcado y mause 
+y procesarlo en el juego, pero el que vamos hablar nosotros hoy es el lag de renderizado, que esta relacionado con la gpu 
+
+entonces con la llegada de los nuevos procesadores APU de amd que son porcesadores que cuentan con una grafica decente
+(esto para no darles mucha definicion)
+incluida dentro del mismo chip, esto podria ser algo bueno para los gamers y la latencia 
+
+ 
+como vemos 
+ el lag del sistema es  la consecuencia del tiempo que tarda todo los componentes en 
+ tomar nuestros movimientos y generar un imagen o fps en este caso
+
+ y viendo la imagen 
+  la latencia de renderizado tiene que ver con el motor grafico del 
+ juego y la gpu... 
+ 
+ ahora si a lo que venimos, 
+dado todo lo que les mencione, es valido pensar que una gpu tenga menos lag al estar 
+todo unificado y aunque podria llegar a ser cierto en un futuro, actualmente no
+
+y esto es porque el cuello de botella de  una gpu en el caso de la latencia de renderizado
+va a estar en la velocidad de las memorias ram, que son casi 4 veces mas lentas que la vram
+de la gpu
+
+
+
+vamos hacer pruebas 
+
+si tomamos en cuenta en un setup estandard, con cpu y gpu jugando un juego
+com graficos humildes, y simplemente liverando la capacidad de la grafica 
+
+en un juego de bajo rendimiento como valorant 

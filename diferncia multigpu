@@ -1,0 +1,33 @@
+te has reguntado alguna ves porque no existe
+una gpu quad dual core  o como sea x core
+
+te digo el porque
+
+resumido, es porque las gpu tienen tantos nucleos
+que no se an inventado el numero. 
+milen core a bueno lo invente
+
+
+en realidad las gpu tienes miles de nucleos cuda 
+que es el nombre tecnico que tiene..
+
+por ejemplo la rtx 3060ti tiene 4800nucleos
+
+pero si te preguntas estos nucleos no son comparables con los
+de un procesador, 
+
+podriamos decir que un nucleo de cpu equivaldria a 250 nucleos cudad?
+esto comparando potencia, pero teoricamente no pueden ser comparados 
+
+ademas de esto. las gpu tienen algo que es el procesamiento paralelo,
+el cual si bien sus nucleos no son poderosos, aplicacndo el paralelismo
+pueden trabajr con grandes cantidades de datos en simultaneo..
+
+y asi todos sus nuclkeos siemrpe trabajaran a su potencia, y no pasaria 
+como en el procesador que un nucleo es usado al 100 y los demas se quedan en 0
+
+entonces la fortaleza de un cpu son las millones de nucleos debiles pero unidos,
+mientras que por la cpu, nucleso fuertes  pero pocos, ademas de independientes
+
+
+

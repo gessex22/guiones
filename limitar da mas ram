@@ -1,0 +1,31 @@
+Es bueno limitar los fps 
+
+ya sea que limitemos los fps para evitar 
+que nuestra grafica este todo el rato
+trabajando a lo que da, o bien sea que 
+activemos el gsync o  sincronizacion vertical
+
+
+esto esta bien hacerlo para aplicaciones o juegos que
+no neceseiten un alto rendimiento
+
+pero para  jugar fornite, warzone, valorant
+basicamente cualquier juego competitivo en el que el tiempo de respuesta 
+sea super importante
+
+poir nada del mundo debe de hacerse 
+
+
+pero porque?
+
+
+por que basicamente si antes tu pc en 1 segundo hacia 360 fgrmas
+
+al limitarlos a 60 o encaso de que usemos la sincronizacion vertical 
+por lo general suele ser 75 100 o 120 
+
+tu pc hara meno por el mismo tiempo, y auqneu le quitas carga de trabajo a la gpu
+vas a experimentar un poco de lagueo porque ahora vas a ver todos los fotogramas con el 
+retardo del tiempo de respuesta del monitor, que suele ser 1ms a 5
+
+mientras que antes solias ver 

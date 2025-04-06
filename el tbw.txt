@@ -1,0 +1,24 @@
+"¿Sabías que tu disco de estado solido  tiene una fecha de expiración
+ escondida?
+ Se llama TBW, y podría sorprenderte..."
+
+el tbw es un parametro que nos sirve de guia para indicar 
+la vida util en un  disco de estado solido.
+
+y enter su significado es bastante sencillo
+
+veamos 
+si tenemos un disco estado solido de 2 tb m.2 y
+ su fabricante nos dice que tiene un tbw de 440(esa informacion
+ se consigue en la pagina oficial del fabricante del producto) 
+ como es el caso de este crucial entonces eso nos
+ dice que despues de haber escrito y borrado alrededor de 
+ 440 terabites,  podrian empezar a presentarse fallas en 
+ este disco en especifico.. y no nose preocupen la mayoria de
+ discos solidos fallan mas por temas electronicos que por 
+ quedarse sin ganas de escribir.. ds
+
+ 
+
+ 
+

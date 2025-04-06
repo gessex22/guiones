@@ -1,0 +1,19 @@
+ya vas a poder jugegos modernos en tu humilde intel celeron
+
+resulta que microsoft saco una nueva tecnologia, una nueva version de direct
+
+que lo que hace es poder aprovechar mejor el rendimiento  de las gpu modernas
+de manera que si antes  la pótencia del procesador afectaba la latencia
+y la generacion de cuadros por segundos..
+
+con la nueva version, se trata de hacer la gpu mas autonoma y no depende tanto del procesador
+benficiando asi los casos en los que se tienen un procesador de baja potencia y una buena graficA
+
+
+es decir, que si antes tu cuello de botella, era producido por tu procesador, que se iba al 100% de uso 
+y no dejaba sacarle maximo uso a la tarjeta grafica.. ahora con la nueva implementacion, las tarjetas graficas 
+y procesadores seran un poco mas aprovechados..
+lo malo es que esto funcionara solo para las gpu seria 30 y las amd raden 7000
+
+
+

@@ -1,0 +1,31 @@
+hablemos de la multi gpu
+
+hace algunos a;ios ya have bastante tiempo era popular tener setups con doble tarjeta grafica
+teoricamente esto permitiria tenes un excelente rendimiento y poder grafico, 
+pero en la practica y uso diario esto no era mas que un sobredimensionamiento
+
+
+aparte de  alardeaba de que tenias una super computadora, y que tenias  tarjeta grafica, la verdad es que no lpdias hacer mas nada 
+
+
+esto fr5acaso principalmente porque esto se relacionaba con un consumom excesivo de energia, lo que las volvia ineficientes
+y segundop era muy complciado desarrollar y optimizar los juegfos y aplicaciones para que pudieran aprovechar el dual gpu'
+y tercero, no era para nada viable en el sentido de que esta funcionalidad necesitaba de controladores, integracion en juegos, mejor sistema de en friamiento
+mejor fuente de alimentacion, configuracion manual adicional, cosas de las que no goza un usuario promedio, ademas de un presupuesrto sustancioso,
+
+
+en un principio  toods  creian que el resultado de tener dual gpu se traduciria en rendimiento por 2, pero reuslto ser en ineficiencia al 2
+
+ya que los juegos no estaban echos para funcionar con 2 gps, algunos pensaron en usar gpus diferentes y resulto en otro desastre porque el ren dimiento solo 
+decrecia hacia la gpu menos potente,  ademas se incrementaba la latencia y finalmente al tener dos gpu el costo era mas alto quje tener una gpu de 
+gama alta con mucho mas rendimiento y menos consumo electrico
+
+finalmente lo unico bueno que se podia hacer con el dual grphicard era manejar la multitarea con gpus diferentes,
+ ya que mientras podias renderizar con una gpu con la otra podias jugar, o que mediante una podias jugar con la otra grabab.. pero con el tiempo y la integracion de 
+ tecnologias como la nvenv hasta eso dejo de ser viable dejando sepultada las dual gpu en la actualidad dejando a  las marcas enfocarse en el usuario y desarrollar 
+ poderosas gpu con un costo elevaod dejando inviable el uso dual
+
+
+ sin mas nad que decir nos vemos
+
+ 

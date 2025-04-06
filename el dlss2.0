@@ -1,0 +1,19 @@
+ ya hablamos del el dlss 1.0 e las graficas 
+ que en resumen se basaba en que las gpu ya estaba entrenada
+ para producir mas fps en ciuertos juegos
+
+ 
+  entonces en su version 2.0, lo que se logro fue hacer mas flexibilidad
+de manera que ya el entrenamiento era mas generalizado, ya que como dije
+anteriormente la grafica debia entrenar con los juegos previamente, 
+mientras en la segunda version los juegos eran "optimizados" para que 
+con un entrenamiento basico de la grafica se obtuviera mejor rendimiento 
+
+
+y finalmente llego el dlss 3.0
+
+que termino ofreciendo hasta 4 veces mas fotogramas, y demas de ofrecer imagenes 
+mas nitidas gracias a la generacion de fotogramas a traves de la interporlacion
+osea que dado dos fotogramas genuinos o renderrizzados  se obtenia uno  completamente 
+artificial, pero claro esto solo se disponia desde la serie de graficas nvidia srie 40
+

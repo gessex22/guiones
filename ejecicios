@@ -1,0 +1,105 @@
+#ejercicio1 
+
+i = 1
+while i <= 10:
+    print(i)
+    i += 1
+
+#ejrcicio 2
+    
+total = 0
+
+while True:
+    numero = int(input("Ingrese un numero (o ingrese 0 para terminar): "))
+    if numero == 0:
+        break  
+    total += numero
+
+print("La suma total de los numeros ingresados es:", total)
+
+#ejercicio 3 
+
+import random
+
+numero_secreto = random.randint(1, 100)
+
+print("Juego de adivinanza de numeros!")
+intentos = 0
+
+while True:
+    numeroUser = int(input("Ingrese su numero (un numero entre 1 y 100): "))
+    intentos += 1
+
+    if numeroUser < numero_secreto:
+        print("Muy bajo Intenta nuevamente.")
+    elif numeroUser > numero_secreto:
+        print("Muy alto Intenta nuevamente.")
+    else:
+        print("Has adivinado el numero en", intentos, "intentos!")
+        break
+
+#ejercicio 4
+    
+while True:
+    try:
+        edad = int(input("Por favor, ingrese su edad: "))
+        if 0 <= edad <= 120:
+            print("Edad encontrada")
+            break  
+        else:
+            print("Por favor, ingrese una edad valida (entre 0 y 120).")
+    except ValueError:
+        print("Por favor, ingrese un numero valido.")   
+
+#ejercicio 5 
+
+numero = int(input("Ingrese un numero para calcular su factorial: "))
+
+factorial = 1
+
+if numero == 0:
+    print("El factorial de 0 es 1")
+else:
+  
+    contador = 1
+    while contador <= numero:
+        factorial *= contador
+        contador += 1
+
+    print("El factorial de", numero, "es:", factorial)
+
+#ejercicio 6
+    
+def saludar():
+    print("¡Hola! Bienvenido al programa.")
+
+def sumar_numeros():
+    num1 = float(input("Ingrese el primer numero: "))
+    num2 = float(input("Ingrese el segundo numero: "))
+    suma = num1 + num2
+    print("La suma de los dos numeros es:", suma)
+
+
+def mostrar_menu():
+    print("\nMenú:")
+    print("1. Saludar")
+    print("2. Sumar dos números")
+    print("3. Salir")
+
+def main():
+    while True:
+        mostrar_menu()
+        opcion = input("Elija una opcion: ")
+
+        if opcion == "1":
+            saludar()
+        elif opcion == "2":
+            sumar_numeros()
+        elif opcion == "3":
+            print("¡Hasta luego!")
+            break
+        else:
+            print("Opcion no valida. Por favor, elija una opcion valida.")
+
+if __name__ == "__main__":
+    main()

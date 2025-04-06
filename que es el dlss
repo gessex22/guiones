@@ -1,0 +1,25 @@
+que es el dlss
+
+
+actualmente con la popularizacion de las inteligencias artifical
+mucho problemas estan siendo solucionados con la implementacion,
+y en el caso de los juegos.. medianmte el uso de inteligencia artifical
+se logra crear fotogramas artificiales de mejor calidad resolucion y a un 
+bajo esfuerzo para la gpu
+
+es por eso que se consigue una gran mejora significativa de fps en los juegos
+autorizados.. siquieres saber mas quedate..
+
+en su primera version el dlss estaba disponible solo para ciertos juegos, ya que 
+las trjetas graficas debian estar entrenadas previamente por asi decirlo.. basicamente 
+lo que hacia nvidia para entrenar las redes neuronales de la ia de sus graficas es tomar 
+los patrones de gran cantidad de iamgenes, pero en exceso de alta y baja resolucion de manera que
+cuando la gpu estuvieese en la practica sea capas de reconstruir una imagen en alta definicion apartir 
+de una imagen deficiente y esto en base a lo que ya habia aprendido previamente..
+
+los provlemas que tenia era que los resultados en ocasiones los detalles no eran del todo finos, y que 
+no era tan versatil para ser aplicado en cualquier juego, basicamente para que pudiera servir de debia de entrenar
+previamente la gpu en un juego, pero claro eso no sucedia en tu pc,,,eso ocurria en los servidores de nvidia..ellos se
+encargaban de hacer los calculos y a tu gpu solo le enviaban la hoja con los resultados...y apartir de ahi la grafica reconstruia
+fotogframas y etc.. enfin esto producia un aumento considerabvle de fps pero no era lo mas optimo por lo que surgio la necesida
+del dlss 2.0 que lo hablamos en otro video
