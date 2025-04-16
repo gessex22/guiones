@@ -2,11 +2,13 @@ guion
 
 como tu profesor se da cuenta de que chat gpt hizo tu tarea
 
-lo mas basico: chat gpt tiene una personalidad robotica 
-que se refleja en sus redacciones. 
+la redaccion:
 
-osea tu profesor sabe lo inutil que eres y sabe que no tienes
-ni idea de que es es discernir la dicotomia epistemeologica
+un estudiante regular no cuenta con la habilidad de hacer una redaccion 
+perfecta. por que para eso esta estudiando.
+
+mientras que las respuestas de gpt chatgpt bueno...
+tienes que decirle. por favor redacta como si fueras un estudiante
 
 segundo:
 
@@ -22,4 +24,4 @@ contra inteligencia: Basicamente tu profesor le pregunta a cht gpt
 si el es el autor intelectual de cierta informacion/ y chat gpt ps
 no sabe lo que esta confesando
 
-ahora si quieres saber como evadir todo esto siguem
+ahora si quieres saber como evadir todo esto sigueme
